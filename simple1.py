@@ -16,7 +16,7 @@ def clear():
 		_ = system('clear') 
 
 # print out some text 
-print('hello geeks\n'*10) 
+print('hello everyone\n'*10) 
 
 # sleep for 2 seconds after printing output 
 sleep(2) 
